@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="8dp">
+    <com.example.erosa.puppy.RoundedImageView
+        android:id="@+id/iv_perfil_masctoa"
+        android:layout_width="120dp"
+        android:layout_height="120dp" />
+    <TextView
+        android:id="@+id/tv_nombre_mascota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+        android:text="Perfil de mascota"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/darker_gray"
+        android:layout_margin="8dp"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_fotos_mascota"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

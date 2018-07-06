@@ -6,4 +6,12 @@
         android:icon="@drawable/ic_hotel"
         android:orderInCategory="1"
         app:showAsAction="always"/>
+    <item android:id="@+id/item_contact"
+        android:title="@string/contacto"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+    <item android:id="@+id/item_acercade"
+        android:title="@string/acerca_de"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
 </menu>
