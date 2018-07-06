@@ -1,6 +1,8 @@
 # PetsCoursera
 Proyecto de entrenamiento en Coursera
-Tarea semana 2 de coursera
+Tarea semana 3 de coursera fragments
+
+Imagenes: https://photos.app.goo.gl/SGfoFkEETNKcjbMV6
 
 <h2> Pantalla principal </h2>
 
