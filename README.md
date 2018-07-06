@@ -1,5 +1,9 @@
 # PetsCoursera
 Proyecto de entrenamiento en Coursera
+
+<b>Por favor para que el correo funcione, ingrese sus credenciales de correo en el archivo CredencialesCorreo.java<b>
+<b>Y por favor active la opción de logueo en su correo: https://myaccount.google.com/lesssecureapps<b>
+
 Tarea semana 3 de coursera fragments
 
 Imagenes: https://photos.app.goo.gl/SGfoFkEETNKcjbMV6
